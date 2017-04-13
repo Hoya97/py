@@ -55,5 +55,5 @@ print("ㅡ"*50)#구분선
 sum이라는 함수를 만들고 그함수를 사용'''
 def sum(r,t):
     return r+t
-print(sum(3,4))
+print(sum(3,4)) #7
 
